@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rezabtuhin
 - 👀 I’m interested in software development and web development
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning web development, Machine Learning, Networking 
+- 💞️ I’m looking to collaborate on Data Mining projects 
 - 📫 How to reach me Contact me at : rezabuddawlatuhin@gmail.com
 
 <!---
