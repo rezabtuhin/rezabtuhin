@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m an enthusiastic software engineer and web developer, with a solid four years of coding experience under my belt. Throughout my<br>journey, I’ve become proficient in various programming languages, including C, C++, Java (proficient), Python, and JavaScript.
+Hi there! I’m an enthusiastic software engineer and web developer, with a solid four years of coding experience under my belt. Throughout my journey, I’ve become proficient in various programming languages, including C, C++, Java (proficient), Python, and JavaScript.
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@ Hi there! I’m an enthusiastic software engineer and web developer, with a soli
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rezabtuhin&icon=4&color=8)](https://visitcount.itsvg.in)
